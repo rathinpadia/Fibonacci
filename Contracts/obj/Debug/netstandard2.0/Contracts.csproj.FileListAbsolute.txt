@@ -1,0 +1,12 @@
+C:\Rathin\Study\Fibonacci\Contracts\bin\Debug\netstandard2.0\Contracts.deps.json
+C:\Rathin\Study\Fibonacci\Contracts\bin\Debug\netstandard2.0\Contracts.dll
+C:\Rathin\Study\Fibonacci\Contracts\bin\Debug\netstandard2.0\Contracts.pdb
+C:\Rathin\Study\Fibonacci\Contracts\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Rathin\Study\Fibonacci\Contracts\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+C:\Rathin\Study\Fibonacci\Contracts\obj\Debug\netstandard2.0\Contracts.csprojAssemblyReference.cache
+C:\Rathin\Study\Fibonacci\Contracts\obj\Debug\netstandard2.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Rathin\Study\Fibonacci\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfoInputs.cache
+C:\Rathin\Study\Fibonacci\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfo.cs
+C:\Rathin\Study\Fibonacci\Contracts\obj\Debug\netstandard2.0\Contracts.csproj.CopyComplete
+C:\Rathin\Study\Fibonacci\Contracts\obj\Debug\netstandard2.0\Contracts.dll
+C:\Rathin\Study\Fibonacci\Contracts\obj\Debug\netstandard2.0\Contracts.pdb

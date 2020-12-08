@@ -1,0 +1,11 @@
+2020-11-29 18:27:24.8131|0|DEBUG|FibonacciApi.Controllers.FibonacciController|In Get Fibonacci + 10 |url: http://localhost/api/Fibonacci/10|action: GetFibonacci|FibonacciApi.Controllers.FibonacciController.GetFibonacci
+2020-11-29 18:27:24.8457|0|DEBUG|Services.FibonacciService|GetFibonacciSeries : number received 10 |url: http://localhost/api/Fibonacci/10|action: GetFibonacci|Services.FibonacciService.GetFibonacciSeries
+2020-11-29 18:27:24.8457|0|DEBUG|Services.FibonacciService|Looping to get numbers Generated :  1 |url: http://localhost/api/Fibonacci/10|action: GetFibonacci|Services.FibonacciService.GetFibonacciSeries
+2020-11-29 18:27:24.8457|0|DEBUG|Services.FibonacciService|Looping to get numbers Generated :  2 |url: http://localhost/api/Fibonacci/10|action: GetFibonacci|Services.FibonacciService.GetFibonacciSeries
+2020-11-29 18:27:24.8457|0|DEBUG|Services.FibonacciService|Looping to get numbers Generated :  3 |url: http://localhost/api/Fibonacci/10|action: GetFibonacci|Services.FibonacciService.GetFibonacciSeries
+2020-11-29 18:27:24.8457|0|DEBUG|Services.FibonacciService|Looping to get numbers Generated :  5 |url: http://localhost/api/Fibonacci/10|action: GetFibonacci|Services.FibonacciService.GetFibonacciSeries
+2020-11-29 18:27:24.8457|0|DEBUG|Services.FibonacciService|Looping to get numbers Generated :  8 |url: http://localhost/api/Fibonacci/10|action: GetFibonacci|Services.FibonacciService.GetFibonacciSeries
+2020-11-29 18:27:24.8457|0|DEBUG|Services.FibonacciService|Looping to get numbers Generated :  13 |url: http://localhost/api/Fibonacci/10|action: GetFibonacci|Services.FibonacciService.GetFibonacciSeries
+2020-11-29 18:27:24.8457|0|DEBUG|Services.FibonacciService|Looping to get numbers Generated :  21 |url: http://localhost/api/Fibonacci/10|action: GetFibonacci|Services.FibonacciService.GetFibonacciSeries
+2020-11-29 18:27:24.8457|0|DEBUG|Services.FibonacciService|Looping to get numbers Generated :  34 |url: http://localhost/api/Fibonacci/10|action: GetFibonacci|Services.FibonacciService.GetFibonacciSeries
+2020-11-29 18:27:24.8457|0|DEBUG|Services.FibonacciService|GetFibonacciSeries Generated : number  System.Int32[] |url: http://localhost/api/Fibonacci/10|action: GetFibonacci|Services.FibonacciService.GetFibonacciSeries

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{15AB46B8-6470-4038-AB71-E1F2F90DC3F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{5892CC96-54E7-49AA-85FD-DC547EA7F314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciApi", "FibonacciApi\FibonacciApi.csproj", "{4BED249E-42DD-44C9-A9CA-FB77BB85BA32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15AB46B8-6470-4038-AB71-E1F2F90DC3F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15AB46B8-6470-4038-AB71-E1F2F90DC3F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15AB46B8-6470-4038-AB71-E1F2F90DC3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15AB46B8-6470-4038-AB71-E1F2F90DC3F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5892CC96-54E7-49AA-85FD-DC547EA7F314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5892CC96-54E7-49AA-85FD-DC547EA7F314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5892CC96-54E7-49AA-85FD-DC547EA7F314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5892CC96-54E7-49AA-85FD-DC547EA7F314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BED249E-42DD-44C9-A9CA-FB77BB85BA32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BED249E-42DD-44C9-A9CA-FB77BB85BA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BED249E-42DD-44C9-A9CA-FB77BB85BA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BED249E-42DD-44C9-A9CA-FB77BB85BA32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {098BA0CE-47EC-4841-92B4-1DDB207215A8}
+	EndGlobalSection
+EndGlobal

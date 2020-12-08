@@ -1,0 +1,18 @@
+2020-11-29 13:33:25.3150|0|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\RathinPadia\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2020-11-29 13:33:25.9667|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:51804/api/values   
+2020-11-29 13:33:25.9667|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:51804/  0 
+2020-11-29 13:33:26.0347|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 68.6385ms 200  
+2020-11-29 13:33:26.2730|3|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get() on controller FibonacciApi.Controllers.ValuesController (FibonacciApi). 
+2020-11-29 13:33:26.2816|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method FibonacciApi.Controllers.ValuesController.Get (FibonacciApi) - Validation state: Valid 
+2020-11-29 13:33:26.2816|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method FibonacciApi.Controllers.ValuesController.Get (FibonacciApi), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.6424ms. 
+2020-11-29 13:33:26.2961|1|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'System.String[]'. 
+2020-11-29 13:33:26.3628|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action FibonacciApi.Controllers.ValuesController.Get (FibonacciApi) in 83.4605ms 
+2020-11-29 13:33:26.3628|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 406.1623ms 200 application/json; charset=utf-8 
+2020-11-29 13:33:42.1488|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:51804/api/Fibonacci/10?num=10   
+2020-11-29 13:33:42.1675|3|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "GetFibonacci", controller = "Fibonacci"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetFibonacci(Int32) on controller FibonacciApi.Controllers.FibonacciController (FibonacciApi). 
+2020-11-29 13:33:42.1847|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method FibonacciApi.Controllers.FibonacciController.GetFibonacci (FibonacciApi) - Validation state: Valid 
+2020-11-29 13:33:44.3108|0|DEBUG|FibonacciApi.Controllers.FibonacciController|In Get Fibonacci  
+2020-11-29 13:33:44.3381|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method FibonacciApi.Controllers.FibonacciController.GetFibonacci (FibonacciApi), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 2152.2886ms. 
+2020-11-29 13:33:44.3381|1|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'Contracts.Models.Common.ApiSuccessResponse`1[[System.Int32[], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2020-11-29 13:33:44.3491|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action FibonacciApi.Controllers.FibonacciController.GetFibonacci (FibonacciApi) in 2180.8294ms 
+2020-11-29 13:33:44.3491|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 2200.9158ms 200 application/json; charset=utf-8 
